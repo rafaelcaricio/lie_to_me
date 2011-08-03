@@ -30,7 +30,7 @@ setup(
                    'Operating System :: POSIX :: Linux',
                    'Topic :: Software Development :: Testing',
     ],
-    packages='lie_to_me',
+    packages=['lie_to_me'],
 
     install_requires=[
         "pyvows",
